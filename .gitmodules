@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "EasyDescribe"]
-	path = EasyDescribe
-	url = https://github.com/cran/EasyDescribe
 [submodule "EMAS"]
 	path = EMAS
 	url = https://github.com/cran/EMAS
+[submodule "EasyDescribe"]
+	path = EasyDescribe
+	url = https://github.com/cran/EasyDescribe
